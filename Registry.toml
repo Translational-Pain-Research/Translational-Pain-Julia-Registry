@@ -4,5 +4,6 @@ repo = "https://github.com/Translational-Pain-Research/Translational-Pain-Julia-
 
 [packages]
 43b90986-2b19-4193-afb8-6103b6f5d350 = { name = "AntibodyMethodsDoseResponseRecipes", path = "A/AntibodyMethodsDoseResponseRecipes" }
+69c61766-33fa-4661-b145-6c090ebe636b = { name = "AntibodyMethodsDoseResponse", path = "A/AntibodyMethodsDoseResponse" }
 935aaf18-14c7-4785-87e9-38cf17c1e7c1 = { name = "FittingObjectiveFunctions", path = "F/FittingObjectiveFunctions" }
 e9a1fd80-c070-45b6-a6fc-ce83faacfa81 = { name = "AntibodyMethodsDoseResponseConvenience", path = "A/AntibodyMethodsDoseResponseConvenience" }
