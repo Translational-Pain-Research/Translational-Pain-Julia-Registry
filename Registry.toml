@@ -3,6 +3,7 @@ uuid = "be2ee14c-1b20-4627-b8eb-deb69b7d8480"
 repo = "https://github.com/Translational-Pain-Research/Translational-Pain-Julia-Registry"
 
 [packages]
+36c19c45-0400-424e-9d0d-5bf8b8cd730c = { name = "AdaptiveDensityApproximationRecipes", path = "A/AdaptiveDensityApproximationRecipes" }
 43b90986-2b19-4193-afb8-6103b6f5d350 = { name = "AntibodyMethodsDoseResponseRecipes", path = "A/AntibodyMethodsDoseResponseRecipes" }
 69c61766-33fa-4661-b145-6c090ebe636b = { name = "AntibodyMethodsDoseResponse", path = "A/AntibodyMethodsDoseResponse" }
 935aaf18-14c7-4785-87e9-38cf17c1e7c1 = { name = "FittingObjectiveFunctions", path = "F/FittingObjectiveFunctions" }
