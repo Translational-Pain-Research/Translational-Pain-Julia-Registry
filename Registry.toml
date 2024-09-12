@@ -1,0 +1,5 @@
+name = "Translational-Pain-Julia-Registry"
+uuid = "be2ee14c-1b20-4627-b8eb-deb69b7d8480"
+repo = "https://github.com/Translational-Pain-Research/Translational-Pain-Julia-Registry"
+
+[packages]
