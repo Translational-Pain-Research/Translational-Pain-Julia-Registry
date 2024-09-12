@@ -3,3 +3,4 @@ uuid = "be2ee14c-1b20-4627-b8eb-deb69b7d8480"
 repo = "https://github.com/Translational-Pain-Research/Translational-Pain-Julia-Registry"
 
 [packages]
+935aaf18-14c7-4785-87e9-38cf17c1e7c1 = { name = "FittingObjectiveFunctions", path = "F/FittingObjectiveFunctions" }
