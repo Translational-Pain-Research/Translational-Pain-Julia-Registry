@@ -1,4 +1,4 @@
-# Translational-Pain-Research
+# Translational-Pain-Julia-Registry
 
 
 [<img src="AntibodyMethodsDoseResponse-docs.svg" style="height: 2em;">](https://Translational-Pain-Research.github.io/AntibodyMethodsDoseResponse-documentation/)
@@ -9,7 +9,7 @@
 
 ## About
 
-**Translational-Pain-Research** contains [Julia](https://julialang.org/) packages for the analysis of (antibody) dose-response curves: 
+**Translational-Pain-Julia-Registry** contains [Julia](https://julialang.org/) packages for the analysis of (antibody) dose-response curves: 
 
 ![](example.svg)
 
